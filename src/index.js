@@ -94,6 +94,7 @@ import arrMultiply from './array-multiplier'
 import second from './second'
 import armstrong from './armstrong'
 import getTriangleType from './getTriangleType'
+import hasDuplicates from './has-duplicates'
 
 export {
   reverseArrayInPlace,
@@ -192,5 +193,5 @@ export {
   second,
   armstrong,
   getTriangleType,
-  
+  hasDuplicates,
 }
